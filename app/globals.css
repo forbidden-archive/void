@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  background: #050608;
+  color: white;
+  font-family: sans-serif;
+}
+
+.home {
+  min-height: 100vh;
+}
+
+.hero {
+  padding: 80px;
+}
+
+.label {
+  color: #7db7ff;
+}
+
+.nav {
+  display: flex;
+  gap: 16px;
+  margin-top: 40px;
+}
+
+.nav a {
+  color: white;
+}
+
+.page {
+  padding: 80px;
+}
+
+.timeline {
+  display: grid;
+  gap: 20px;
+}
+
+.card {
+  border: 1px solid #333;
+  padding: 20px;
+  border-radius: 20px;
+}
